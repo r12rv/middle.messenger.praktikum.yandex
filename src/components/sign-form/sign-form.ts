@@ -30,7 +30,7 @@ class SignForm {
           </div>
         </form>
       </div>
-    `
+    `;
     const template = Handlebars.compile(form);
     const context = { 
       formClass: style.form,

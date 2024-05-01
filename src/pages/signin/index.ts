@@ -1,5 +1,5 @@
-import '../../style.scss'
+import '../../style.scss';
 
 import { SignInPage } from "./signin";
 
-document.getElementById('app')!.innerHTML += SignInPage
+document.getElementById('app')!.innerHTML += SignInPage;

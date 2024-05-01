@@ -5,7 +5,7 @@ export interface TextInputProps {
   placeholder: string;
   name: string;
   type: 'password' | 'text' | 'email';
-  value?: string
+  value?: string;
 }
 
 class TextInput {
@@ -13,8 +13,8 @@ class TextInput {
     this.placeholder = props.placeholder;
     this.name = props.name;
     this.type = props.type;
-    this.value = props.value
-  }
+    this.value = props.value;
+  };
 
   placeholder;
   name;
@@ -26,7 +26,7 @@ class TextInput {
     const template = Handlebars.compile(input);
     const context = { inputClass: style.input, type: this.type, name: this.name, placeholder: this.placeholder, value: this.value};
     return template(context);
-  }
-}
+  };
+};
 
 export default TextInput;

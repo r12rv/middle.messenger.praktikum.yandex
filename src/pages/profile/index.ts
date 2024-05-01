@@ -1,4 +1,4 @@
-import '../../style.scss'
+import '../../style.scss';
 import { ProfilePage } from './profile';
 
-document.getElementById('app')!.innerHTML += ProfilePage
+document.getElementById('app')!.innerHTML += ProfilePage;

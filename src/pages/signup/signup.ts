@@ -2,7 +2,7 @@ import Button from "../../components/button/button";
 import Link from "../../components/link-string/link-string";
 import SignForm from "../../components/sign-form/sign-form";
 import TextInput from "../../components/text-input/text-input";
-import style from './signup.module.scss'
+import style from './signup.module.scss';
 import Handlebars from "handlebars";
 
 

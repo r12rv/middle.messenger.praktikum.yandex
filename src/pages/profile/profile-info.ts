@@ -6,4 +6,4 @@ export const profileInfo: Record<string, string> = {
   chatName: 'AleksandraI',
   phone: '+78005553535',
   password: 'qwerty'
-}
+};

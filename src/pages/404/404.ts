@@ -7,7 +7,7 @@ const notFoundPageHtml = `
     <h1>404</h1>
     page not found
   </div>
-`
+`;
 const template = Handlebars.compile(notFoundPageHtml);
 const context = { errorPageClass: style.error_page};
 
