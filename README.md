@@ -14,14 +14,14 @@
 
 ## Netlify
 
-[/signin](https://sprint-1--yp-chat-me.netlify.app/signin)
+[/signin](https://yp-chat-me.netlify.app/signin)
 
-[/signup](https://sprint-1--yp-chat-me.netlify.app/signup)
+[/signup](https://yp-chat-me.netlify.app/signup)
 
-[/](https://sprint-1--yp-chat-me.netlify.app/)
+[/](https://yp-chat-me.netlify.app/)
 
-[/profile](https://sprint-1--yp-chat-me.netlify.app/profile)
+[/profile](https://yp-chat-me.netlify.app/profile)
 
-[/404](https://sprint-1--yp-chat-me.netlify.app/404)
+[/404](https://yp-chat-me.netlify.app/404)
 
-[/500](https://sprint-1--yp-chat-me.netlify.app/500)
+[/500](https://yp-chat-me.netlify.app/500)

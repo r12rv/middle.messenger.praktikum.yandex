@@ -46,17 +46,17 @@
 
 .info {
   flex-grow: 1;
-  padding: 20px;
+  padding: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 30px;
+  gap: 20px;
 }
 
 .info_form {
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 10px;
   width: 100%;
   min-width: 300px
 }
