@@ -10,7 +10,7 @@
 `npm run start`
 
 ## PR
-[Sprint 1]()
+[Sprint 1](https://github.com/r12rv/middle.messenger.praktikum.yandex/pull/4)
 
 ## Netlify
 
