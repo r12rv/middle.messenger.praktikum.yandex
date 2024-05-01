@@ -1,0 +1,24 @@
+.input {
+  padding: 8px;
+  border: 2px solid #f576cc;
+  border-radius: 6px;
+  outline: none;
+  flex-grow: 1;
+}
+
+.field_name {
+  text-wrap: nowrap;
+  width: 110px;
+  text-align: end;
+}
+
+.profile_input {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pencil {
+  height: 25px;
+}

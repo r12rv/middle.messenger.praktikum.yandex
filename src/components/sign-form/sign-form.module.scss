@@ -1,0 +1,26 @@
+@mixin basicColamnFlex {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.form {
+  @include basicColamnFlex;
+  min-width: 300px;
+  padding: 20px;
+  border: 2px lightgray solid;
+  border-radius: 6px;
+}
+
+.name {
+  text-align: center;
+}
+
+.children_form {
+  @include basicColamnFlex;
+}
+
+.children_bottom {
+  @include basicColamnFlex;
+  margin-top: 40px;
+}
