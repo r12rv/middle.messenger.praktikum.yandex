@@ -25,9 +25,3 @@
 [/404](https://sprint-1--yp-chat-me.netlify.app/404)
 
 [/500](https://sprint-1--yp-chat-me.netlify.app/500)
-
-
-
-
-
-
